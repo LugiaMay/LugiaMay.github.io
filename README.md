@@ -1,5 +1,3 @@
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -49,7 +47,7 @@
 <body>
   <h1>Ted Nivison’s Grand Finale</h1>
   <div id="timer">--:--:--:--</div>
-  <footer>“An inside joke, promise.” – Oct 23, 2025</footer>
+  
 
   <script>
     // Change this if you want a different moment (24-hour clock)
